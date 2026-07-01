@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: acrefavmp.azurecr.io/efapp-avmp:latest
+          tags: acrefavmp.azurecr.io/acrefavmp:latest
