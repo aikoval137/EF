@@ -179,8 +179,8 @@ Responde en español, de forma clara.
 # INTERFAZ STREAMLIT
 # =======================
 
-st.set_page_config(page_title="ChatBot", page_icon="📚")
-st.title("📚📚📚 Chat con PDFs en MongoDB + Gemini + Cohere: " + USER)
+st.set_page_config(page_title="ChatBot123", page_icon="📚")
+st.title("📚 Chat con PDFs en MongoDB + Gemini + Cohere: " + USER+" Masaki!!")
 
 archivo_pdf = st.file_uploader("📤 Sube un PDF", type=["pdf"])
 
